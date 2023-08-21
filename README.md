@@ -132,16 +132,6 @@
 
 </div>
 
-<!-- Footer -->
-<samp>
-    <p align="center">
-        ════ ⋆★⋆ ════
-        <br>
-        "Happy Coding👨‍💻"
-        <br>
-    </p>
-</samp>
-
 <!-- Featured Repositories -->
 #### Featured
 
