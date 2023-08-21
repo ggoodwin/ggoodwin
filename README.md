@@ -101,14 +101,14 @@
 
 #### Profiles
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/greg-goodwin)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/greggoodwin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/greg-goodwin)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/greggoodwin)
 
 #### Messaging
 
-  [![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)](https://join.skype.com/invite/mQK5fkerGduc)
-  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MessageGreg)
-  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.id/?prefill=179795086543028224)
+[![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)](https://join.skype.com/invite/mQK5fkerGduc)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MessageGreg)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.id/?prefill=179795086543028224)
 
 </div>
 
@@ -119,10 +119,13 @@
         <br>
         "Happy Coding👨‍💻"
         <br>
-        <!-- Profile Views Counter -->
-        ![](https://komarev.com/ghpvc/?username=ggoodwin&color=blueviolet)
     </p>
 </samp>
+
+<div align="center">
+<!-- Profile Views Counter -->
+![](https://komarev.com/ghpvc/?username=ggoodwin&color=blueviolet)
+</div>
 
 <!-- Featured Repositories -->
 #### Featured
