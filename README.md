@@ -122,15 +122,11 @@
     </p>
 </samp>
 
-<div align="center">
-<!-- Profile Views Counter -->
-![](https://komarev.com/ghpvc/?username=ggoodwin&color=blueviolet)
-</div>
-
 <!-- Featured Repositories -->
 #### Featured
 
 <p align="center">
+
 <a href="https://github.com/ggoodwin/ggoodwin">
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=ggoodwin&repo=ggoodwin&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
@@ -148,4 +144,8 @@
 <a href="https://github.com/ggoodwin/BlogPostProject">
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=ggoodwin&repo=BlogPostProject&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
+
+<!-- Profile Views Counter -->
+![Profile views](https://komarev.com/ghpvc/?username=ggoodwin&color=blueviolet)
+
 </p>
