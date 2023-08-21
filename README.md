@@ -1,4 +1,4 @@
-p<!-- https://github.com/ggoodwin -->
+<!-- https://github.com/ggoodwin -->
 <!-- August 20th, 2023 -->
 
 <!-- Title -->
@@ -12,7 +12,7 @@ p<!-- https://github.com/ggoodwin -->
 <!-- Technologies -->
 
 <!-- Languages -->
-<p align="center>
+<p align="center">
 
 #### Languages
 
