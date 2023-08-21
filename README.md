@@ -1,8 +1,5 @@
-<!-- https://github.com/ggoodwin -->
+p<!-- https://github.com/ggoodwin -->
 <!-- August 20th, 2023 -->
-
-<!-- Profile Views Counter -->
-![](https://komarev.com/ghpvc/?username=ggoodwin&color=blueviolet)
 
 <!-- Title -->
 <h3 align="center">
@@ -15,6 +12,8 @@
 <!-- Technologies -->
 
 <!-- Languages -->
+<p align="center>
+
 #### Languages
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -22,6 +21,8 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
+</p>
 
 <details align="center">
   <summary> <samp>&#9776; More</samp></summary>
@@ -117,6 +118,9 @@
         ════ ⋆★⋆ ════
         <br>
         "Happy Coding👨‍💻"
+        <br>
+        <!-- Profile Views Counter -->
+        ![](https://komarev.com/ghpvc/?username=ggoodwin&color=blueviolet)
     </p>
 </samp>
 
