@@ -12,7 +12,7 @@
 <!-- Technologies -->
 
 <!-- Languages -->
-<p align="center">
+<div align="center">
 
 #### Languages
 
@@ -22,7 +22,7 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
-</p>
+</div>
 
 <details align="center">
   <summary> <samp>&#9776; More</samp></summary>
