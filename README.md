@@ -105,11 +105,14 @@
 ![GoogleAnalytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
 ![Hotjar](	https://img.shields.io/badge/hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white)
 
-#### Dev Machines
+#### Dev Machine 1
 
 ![Windows](https://img.shields.io/badge/Windows-Custom_Built-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Intel](https://img.shields.io/badge/Intel-Core_i9_9900K-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![GeForce](https://img.shields.io/badge/NVIDIA-GTX_3080_ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+#### Dev Machine 2
+
 ![Macbook](https://img.shields.io/badge/Apple-MacBook_Pro_2023-999999?style=for-the-badge&logo=apple&logoColor=white)
 
   </p>
