@@ -128,16 +128,16 @@
 
 #### Profiles
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/greg-goodwin)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/greggoodwin)
-[![HashNode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://ggoodwin.hashnode.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ggn.sh/li)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://ggn.sh/x)
+[![HashNode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://ggn.hn)
 
 #### Messaging
 
-[![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)](https://join.skype.com/invite/mQK5fkerGduc)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MessageGreg)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.id/?prefill=179795086543028224)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/greg)
+[![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)](https://ggn.sh/skype)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://ggn.sh/tg)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://ggn.sh/discord)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://ggn.sh/wa)
 
 </div>
 
@@ -150,17 +150,17 @@
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=ggoodwin&repo=ggoodwin&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 <span>&nbsp;</span>
-<a href="https://github.com/ggoodwin/go-nyse-time">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=ggoodwin&repo=go-nyse-time&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<a href="https://github.com/ggoodwin/dsh">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=ggoodwin&repo=dsh&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 </p>
 
 <p align="center">
-<a href="https://github.com/ggoodwin/discord-crypto-bot">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=ggoodwin&repo=discord-crypto-bot&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<a href="https://github.com/ggoodwin/socials">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=ggoodwin&repo=socials&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 <span>&nbsp;</span>
-<a href="https://github.com/ggoodwin/BlogPostProject">
+<a href="https://github.com/ggoodwin/ggn-dev">
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=ggoodwin&repo=BlogPostProject&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 
