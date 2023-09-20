@@ -128,6 +128,7 @@
 
 #### Profiles
 
+[![GGN](https://img.shields.io/badge/GGN.dev-663399?style=for-the-badge&logo=gatsby&logoColor=white)](https://ggn.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ggn.sh/li)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://ggn.sh/x)
 [![HashNode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://ggn.hn)
