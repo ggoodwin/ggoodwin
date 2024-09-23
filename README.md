@@ -142,6 +142,14 @@
 
 </div>
 
+#### GitHub Stats
+
+<a href="https://github.com/ggoodwin">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ggoodwin&show_icons=true&theme=shades-of-purple&count_private=true" alt="ggoodwin GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggoodwin&theme=shades-of-purple&layout=compact" 
+    alt="ggoodwin GitHub Top Languages" />
+</a>
+
 <!-- Featured Repositories -->
 #### Featured
 
