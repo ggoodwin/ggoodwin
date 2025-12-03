@@ -23,6 +23,7 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-277261?style=for-the-badge&logo=rust&logoColor=white)
 
 </div>
 
@@ -100,7 +101,7 @@
 
 #### Profiles
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://ggn.sh/li)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ggn.sh/li)
 [![X](https://img.shields.io/badge/twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white)](https://ggn.sh/x)
 [![Instagram](https://img.shields.io/badge/IG-FF0069?style=for-the-badge&logo=Instagram&logoColor=white)](https://ggn.sh/ig)
 
