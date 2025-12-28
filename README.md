@@ -14,7 +14,7 @@
 <!-- Languages -->
 <div align="center">
 
-[![GGN](https://img.shields.io/badge/GGN.dev-663399?style=for-the-badge&logo=gatsby&logoColor=white)](https://ggn.dev)
+[![GGN](https://img.shields.io/badge/GGN.dev-663399?style=for-the-badge&logo=Gitee&logoColor=white)](https://ggn.dev)
 
 #### Languages
 
@@ -31,7 +31,7 @@
   <summary> <samp>&#9776; More</samp></summary>
   <p align="center">
 
-#### Back-end Frameworks
+#### Back-End Frameworks
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
@@ -100,18 +100,11 @@
 
 <div align="center">
 
-#### Profiles
+#### Other
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ggn.sh/li)
-[![X](https://img.shields.io/badge/twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white)](https://ggn.sh/x)
-[![Instagram](https://img.shields.io/badge/IG-FF0069?style=for-the-badge&logo=Instagram&logoColor=white)](https://ggn.sh/ig)
-
-#### Messaging
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://ggn.sh/tg)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://ggn.sh/discord)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://ggn.sh/wa)
-[![Messenger](https://img.shields.io/badge/Messenger-0866FF?style=for-the-badge&logo=Messenger&logoColor=white)](https://ggn.sh/m)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZwogICAgd2lkdGg9IjI1NiIKICAgIGhlaWdodD0iMjU2IgogICAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgcHJlc2VydmVBc3BlY3RSYXRpbz0ieE1pZFlNaWQiCiAgICB2aWV3Qm94PSIwIDAgMjU2IDI1NiIKPjxwYXRoCiAgICAgICAgZD0iTTIxOC4xMjMgMjE4LjEyN2gtMzcuOTMxdi01OS40MDNjMC0xNC4xNjUtLjI1My0zMi40LTE5LjcyOC0zMi40LTE5Ljc1NiAwLTIyLjc3OSAxNS40MzQtMjIuNzc5IDMxLjM2OXY2MC40M2gtMzcuOTNWOTUuOTY3aDM2LjQxM3YxNi42OTRoLjUxYTM5LjkwNyAzOS45MDcgMCAwIDEgMzUuOTI4LTE5LjczM2MzOC40NDUgMCA0NS41MzMgMjUuMjg4IDQ1LjUzMyA1OC4xODZsLS4wMTYgNjcuMDEzWk01Ni45NTUgNzkuMjdjLTEyLjE1Ny4wMDItMjIuMDE0LTkuODUyLTIyLjAxNi0yMi4wMDktLjAwMi0xMi4xNTcgOS44NTEtMjIuMDE0IDIyLjAwOC0yMi4wMTYgMTIuMTU3LS4wMDMgMjIuMDE0IDkuODUxIDIyLjAxNiAyMi4wMDhBMjIuMDEzIDIyLjAxMyAwIDAgMSA1Ni45NTUgNzkuMjdtMTguOTY2IDEzOC44NThIMzcuOTVWOTUuOTY3aDM3Ljk3djEyMi4xNlpNMjM3LjAzMy4wMThIMTguODlDOC41OC0uMDk4LjEyNSA4LjE2MS0uMDAxIDE4LjQ3MXYyMTkuMDUzYy4xMjIgMTAuMzE1IDguNTc2IDE4LjU4MiAxOC44OSAxOC40NzRoMjE4LjE0NGMxMC4zMzYuMTI4IDE4LjgyMy04LjEzOSAxOC45NjYtMTguNDc0VjE4LjQ1NGMtLjE0Ny0xMC4zMy04LjYzNS0xOC41ODgtMTguOTY2LTE4LjQ1MyIKICAgICAgICBmaWxsPSIjRkZGRkZGIgogICAgLz48L3N2Zz4K)](https://ggn.sh/li)
+[![Resume](https://img.shields.io/badge/Resume-FF0069?style=for-the-badge&logo=Resend&logoColor=white)](https://ggn.sh/resume)
+[![Email](https://img.shields.io/badge/Email%20Me-0866FF?style=for-the-badge&logo=minutemailer&logoColor=white)](https://ggn.sh/email)
 
 </div>
 
@@ -125,7 +118,7 @@
 </a>
 -->
 
-<!-- Featured Repositories -->
+<!-- Featured Repositories 
 #### Featured
 
 <p align="center">
@@ -147,8 +140,10 @@
 <a href="https://github.com/ggoodwin/simtrixx-blazor">
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=ggoodwin&repo=simtrixx-blazor&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
+-->
+<div align="center">
+  
+  <!-- Profile Views Counter -->
+  ![Profile views](https://komarev.com/ghpvc/?username=ggoodwin&color=blueviolet)
 
-<!-- Profile Views Counter -->
-![Profile views](https://komarev.com/ghpvc/?username=ggoodwin&color=blueviolet)
-
-</p>
+</div>
